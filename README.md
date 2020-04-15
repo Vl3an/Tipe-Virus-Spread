@@ -28,9 +28,10 @@ Study the real cases of viruses, in particular corona, to compare and try to get
    * outdoor survival (local scale, even city life ...)
 
 ### Graphs 
-Study / display those propagation graphs in the population:
+ * Study / display those propagation graphs in the population:
    * (*dead*,*healed* and *cured*) by *time*
    * *path traveled by the virus* according to *containment*
    * (*dead*,*healed* and *cured*) according to *density*, *lethality*, *immunity* 
    * ...
+
 We also have to find (if there is one), **critical probabilities** / rate that separates two types of virus progression or weigh the influence of each parameter.
